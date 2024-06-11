@@ -1,1 +1,1 @@
-# In this , we are practicing backennd development
+# In this , we are practicing backend development
